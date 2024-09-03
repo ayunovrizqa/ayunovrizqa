@@ -43,7 +43,7 @@
   </thead>
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you</p>
-<p>Or ask me anything at <a href="https://github.com/anoskinz/anoskinz/discussions/new/choose">Discussions</a>!</p>
+<p>Or ask me anything at <a href="https://github.com/anoskinz/ayunovrizqa/discussions/new/choose">Discussions</a>!</p>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
